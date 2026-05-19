@@ -1,6 +1,6 @@
 # Aria — Compassionate AI Loan Recovery
 
-> Hackvora 2026 submission. An AI voice agent that recovers loans through empathetic, disclosed, multilingual conversation — with real-time emotion monitoring and instant human escalation when needed.
+An AI voice agent that recovers loans through empathetic, disclosed, multilingual conversation — with real-time emotion monitoring and instant human escalation when needed.
 
 ## What it does
 
